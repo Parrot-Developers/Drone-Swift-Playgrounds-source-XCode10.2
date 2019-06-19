@@ -108,7 +108,7 @@ class DroneBle: NSObject {
     }
 
     /// Parrot manufacturer data
-    fileprivate static let parrotBleManufacturerData = Data(bytes: [0x43, 0x00, 0xCF, 0x19])
+    fileprivate static let parrotBleManufacturerData = Data(_: [0x43, 0x00, 0xCF, 0x19])
     /// playground bluetooth central manager
     var btManager: PlaygroundBluetoothCentralManager!
     /// delegate
@@ -289,7 +289,7 @@ extension CBUUID {
 /// Extension of CBService ot find a characteristic by UUID
 extension CBService {
     func characteristic(withUid uid: CBUUID) -> CBCharacteristic? {
-        if let idx = characteristics?.index(where: {$0.uuid == uid}) {
+        if let idx = characteristics?.firstIndex(where: {$0.uuid == uid}) {
             return characteristics?[idx]
         }
         return nil

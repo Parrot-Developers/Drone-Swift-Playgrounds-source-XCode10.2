@@ -652,16 +652,16 @@ class DroneProtocol {
 /// Extension to create data of a commands and write zero terminated string
 extension Data {
     init(forCommand cmd:(prj: UInt8, cls: UInt8, id: UInt8)) {
-        self.init(bytes:[4, 0, cmd.prj, cmd.cls, cmd.id, 0])
+        self.init(_:[4, 0, cmd.prj, cmd.cls, cmd.id, 0])
     }
 
     init(ackOf data: Data, withSeqNr seqNr: UInt8) {
-        self.init(bytes:[1, seqNr, data[1]])
+        self.init(_:[1, seqNr, data[1]])
     }
 
     mutating func append(cmdString string: String) {
-        self.append(Data(bytes:Array(string.utf8)))
-        self.append(Data(bytes: [UInt8(0)]))
+        self.append(Data(_:Array(string.utf8)))
+        self.append(Data(_: [UInt8(0)]))
     }
 
     mutating func append(data: UInt8) {
