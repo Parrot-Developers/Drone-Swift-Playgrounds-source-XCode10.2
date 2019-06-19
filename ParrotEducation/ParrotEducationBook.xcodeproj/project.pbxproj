@@ -10,52 +10,31 @@
 		02A2120422BADDF10021A32F /* BookIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 02A2120322BADDF10021A32F /* BookIcon.png */; };
 		02A2120522BADDF10021A32F /* BookIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 02A2120322BADDF10021A32F /* BookIcon.png */; };
 		02A2121C22BADE270021A32F /* Assessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120822BADE210021A32F /* Assessor.swift */; };
-		02A2121D22BADE270021A32F /* Assessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120822BADE210021A32F /* Assessor.swift */; };
 		02A2121E22BADE270021A32F /* DroneViewControllerBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120922BADE210021A32F /* DroneViewControllerBase.swift */; };
-		02A2121F22BADE270021A32F /* DroneViewControllerBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120922BADE210021A32F /* DroneViewControllerBase.swift */; };
 		02A2122022BADE270021A32F /* DroneViewProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120A22BADE210021A32F /* DroneViewProxy.swift */; };
-		02A2122122BADE270021A32F /* DroneViewProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120A22BADE210021A32F /* DroneViewProxy.swift */; };
 		02A2122222BADE270021A32F /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120B22BADE220021A32F /* Api.swift */; };
-		02A2122322BADE270021A32F /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120B22BADE220021A32F /* Api.swift */; };
 		02A2122422BADE270021A32F /* Canon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120C22BADE220021A32F /* Canon.swift */; };
-		02A2122522BADE270021A32F /* Canon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120C22BADE220021A32F /* Canon.swift */; };
 		02A2122622BADE270021A32F /* DroneBle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120D22BADE220021A32F /* DroneBle.swift */; };
-		02A2122722BADE270021A32F /* DroneBle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120D22BADE220021A32F /* DroneBle.swift */; };
 		02A2122822BADE270021A32F /* Lights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120E22BADE230021A32F /* Lights.swift */; };
-		02A2122922BADE270021A32F /* Lights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120E22BADE230021A32F /* Lights.swift */; };
 		02A2122A22BADE270021A32F /* DroneProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120F22BADE230021A32F /* DroneProtocol.swift */; };
-		02A2122B22BADE270021A32F /* DroneProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2120F22BADE230021A32F /* DroneProtocol.swift */; };
 		02A2122C22BADE270021A32F /* FlyingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121022BADE230021A32F /* FlyingState.swift */; };
-		02A2122D22BADE270021A32F /* FlyingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121022BADE230021A32F /* FlyingState.swift */; };
 		02A2122E22BADE270021A32F /* DataStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121122BADE240021A32F /* DataStorage.swift */; };
-		02A2122F22BADE270021A32F /* DataStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121122BADE240021A32F /* DataStorage.swift */; };
 		02A2123022BADE270021A32F /* Drone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121222BADE240021A32F /* Drone.swift */; };
-		02A2123122BADE270021A32F /* Drone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121222BADE240021A32F /* Drone.swift */; };
 		02A2123222BADE270021A32F /* MotionDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121322BADE240021A32F /* MotionDetector.swift */; };
-		02A2123322BADE270021A32F /* MotionDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121322BADE240021A32F /* MotionDetector.swift */; };
 		02A2123422BADE270021A32F /* MotionTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121422BADE250021A32F /* MotionTracker.swift */; };
-		02A2123522BADE270021A32F /* MotionTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121422BADE250021A32F /* MotionTracker.swift */; };
 		02A2123622BADE270021A32F /* MoveParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121522BADE250021A32F /* MoveParams.swift */; };
-		02A2123722BADE270021A32F /* MoveParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121522BADE250021A32F /* MoveParams.swift */; };
 		02A2123822BADE270021A32F /* FlipDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121622BADE250021A32F /* FlipDirection.swift */; };
-		02A2123922BADE270021A32F /* FlipDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121622BADE250021A32F /* FlipDirection.swift */; };
 		02A2123A22BADE270021A32F /* DroneController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121722BADE260021A32F /* DroneController.swift */; };
-		02A2123B22BADE270021A32F /* DroneController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121722BADE260021A32F /* DroneController.swift */; };
 		02A2123C22BADE270021A32F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121822BADE260021A32F /* MainViewController.swift */; };
-		02A2123D22BADE270021A32F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121822BADE260021A32F /* MainViewController.swift */; };
 		02A2123E22BADE270021A32F /* TurnDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121922BADE260021A32F /* TurnDirection.swift */; };
-		02A2123F22BADE270021A32F /* TurnDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121922BADE260021A32F /* TurnDirection.swift */; };
 		02A2124022BADE270021A32F /* Grabber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121A22BADE270021A32F /* Grabber.swift */; };
-		02A2124122BADE270021A32F /* Grabber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121A22BADE270021A32F /* Grabber.swift */; };
 		02A2124222BADE270021A32F /* MoveDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121B22BADE270021A32F /* MoveDirection.swift */; };
-		02A2124322BADE270021A32F /* MoveDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2121B22BADE270021A32F /* MoveDirection.swift */; };
 		02A2124522BADE450021A32F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02A2124422BADE450021A32F /* Main.storyboard */; };
-		02A2124622BADE450021A32F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02A2124422BADE450021A32F /* Main.storyboard */; };
 		02A2124822BADEAE0021A32F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02A2124722BADEAE0021A32F /* Assets.xcassets */; };
 		02A2124922BADEAE0021A32F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02A2124722BADEAE0021A32F /* Assets.xcassets */; };
+		02A2129622BAE4D10021A32F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A2129422BAE4D00021A32F /* AppDelegate.swift */; };
+		02A2129822BAE5F20021A32F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02A2124422BADE450021A32F /* Main.storyboard */; };
 		5E086DD32051E3A3004D8D25 /* Manifest.plist in Copy Book Contents */ = {isa = PBXBuildFile; fileRef = 5E086DCF2051DF0F004D8D25 /* Manifest.plist */; };
-		5EA2E3C02056F35A00416A35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA2E3BF2056F35A00416A35 /* AppDelegate.swift */; };
-		5EA2E3CA2056F35B00416A35 /* LiveViewTestAppLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EA2E3C82056F35B00416A35 /* LiveViewTestAppLaunchScreen.storyboard */; };
 		5EA2E3D42056F36800416A35 /* libBook_Sources.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EF2F9AB2054BBF300191409 /* libBook_Sources.a */; };
 		5EA2E3DA2056F8D100416A35 /* PlaygroundBluetooth.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA2E3D82056F88700416A35 /* PlaygroundBluetooth.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		5EA2E3DB2056F8D100416A35 /* PlaygroundSupport.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA2E3D72056F88700416A35 /* PlaygroundSupport.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -158,6 +137,8 @@
 		02A2121B22BADE270021A32F /* MoveDirection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoveDirection.swift; sourceTree = "<group>"; };
 		02A2124422BADE450021A32F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		02A2124722BADEAE0021A32F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		02A2129422BAE4D00021A32F /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		02A2129522BAE4D10021A32F /* LiveViewTestAppLaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LiveViewTestAppLaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E086DC02051C5A7004D8D25 /* ParrotEducationBook.playgroundbook */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParrotEducationBook.playgroundbook; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BookOverridingBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5E086DCF2051DF0F004D8D25 /* Manifest.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Manifest.plist; sourceTree = "<group>"; };
@@ -166,8 +147,6 @@
 		5E1004BE208E7F6E00BCFE70 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		5E2A7AE6204F630600F4E17A /* BaseBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BaseBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5EA2E3BD2056F35A00416A35 /* LiveViewTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiveViewTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EA2E3BF2056F35A00416A35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5EA2E3C92056F35B00416A35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LiveViewTestAppLaunchScreen.storyboard; sourceTree = "<group>"; };
 		5EA2E3CB2056F35B00416A35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EA2E3D72056F88700416A35 /* PlaygroundSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PlaygroundSupport.framework; sourceTree = PLAYGROUNDS_FRAMEWORKS_DIR; };
 		5EA2E3D82056F88700416A35 /* PlaygroundBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PlaygroundBluetooth.framework; sourceTree = PLAYGROUNDS_FRAMEWORKS_DIR; };
@@ -270,8 +249,8 @@
 		5EA2E3BE2056F35A00416A35 /* LiveViewTestApp */ = {
 			isa = PBXGroup;
 			children = (
-				5EA2E3BF2056F35A00416A35 /* AppDelegate.swift */,
-				5EA2E3C82056F35B00416A35 /* LiveViewTestAppLaunchScreen.storyboard */,
+				02A2129422BAE4D00021A32F /* AppDelegate.swift */,
+				02A2129522BAE4D10021A32F /* LiveViewTestAppLaunchScreen.storyboard */,
 				5EA2E3CB2056F35B00416A35 /* Info.plist */,
 			);
 			path = LiveViewTestApp;
@@ -468,8 +447,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02A2124622BADE450021A32F /* Main.storyboard in Resources */,
-				5EA2E3CA2056F35B00416A35 /* LiveViewTestAppLaunchScreen.storyboard in Resources */,
+				02A2129822BAE5F20021A32F /* Main.storyboard in Resources */,
 				02A2124922BADEAE0021A32F /* Assets.xcassets in Resources */,
 				02A2120522BADDF10021A32F /* BookIcon.png in Resources */,
 			);
@@ -492,7 +470,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "PLAYGROUND_BOOK_PATH=\"${BUILT_PRODUCTS_DIR}/${PLAYGROUND_BOOK_FILE_NAME}.playgroundbook\"\nPRIVATERESOURCES_FOLDER_PATH=\"${PLAYGROUND_BOOK_PATH}/Contents/PrivateResources\"\nPUBLICRESOURCES_FOLDER_PATH=\"${PLAYGROUND_BOOK_PATH}/Contents/PublicResources\"\n\nDESTINATION_FOLDER_PATH=\"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}\"\n\nif [[ -d \"${PRIVATERESOURCES_FOLDER_PATH}\" ]]; then\n    ditto \"${PRIVATERESOURCES_FOLDER_PATH}\" \"${DESTINATION_FOLDER_PATH}\"\nfi\n\nif [[ -d \"${PUBLICRESOURCES_FOLDER_PATH}\" ]]; then\n    ditto \"${PUBLICRESOURCES_FOLDER_PATH}\" \"${DESTINATION_FOLDER_PATH}\"\nfi\n\nmkdir -p \"${DERIVED_FILE_DIR}\"\ntouch \"${DERIVED_FILE_DIR}/embed-resources-marker\"";
+			shellScript = "PLAYGROUND_BOOK_PATH=\"${BUILT_PRODUCTS_DIR}/${PLAYGROUND_BOOK_FILE_NAME}.playgroundbook\"\nPRIVATERESOURCES_FOLDER_PATH=\"${PLAYGROUND_BOOK_PATH}/Contents/PrivateResources\"\nPUBLICRESOURCES_FOLDER_PATH=\"${PLAYGROUND_BOOK_PATH}/Contents/PublicResources\"\n\nDESTINATION_FOLDER_PATH=\"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}\"\n\nif [[ -d \"${PRIVATERESOURCES_FOLDER_PATH}\" ]]; then\n    ditto \"${PRIVATERESOURCES_FOLDER_PATH}\" \"${DESTINATION_FOLDER_PATH}\"\nfi\n\nif [[ -d \"${PUBLICRESOURCES_FOLDER_PATH}\" ]]; then\n    ditto \"${PUBLICRESOURCES_FOLDER_PATH}\" \"${DESTINATION_FOLDER_PATH}\"\nfi\n\nmkdir -p \"${DERIVED_FILE_DIR}\"\ntouch \"${DERIVED_FILE_DIR}/embed-resources-marker\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -501,27 +479,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02A2123322BADE270021A32F /* MotionDetector.swift in Sources */,
-				02A2124122BADE270021A32F /* Grabber.swift in Sources */,
-				02A2122122BADE270021A32F /* DroneViewProxy.swift in Sources */,
-				02A2124322BADE270021A32F /* MoveDirection.swift in Sources */,
-				02A2123B22BADE270021A32F /* DroneController.swift in Sources */,
-				02A2122722BADE270021A32F /* DroneBle.swift in Sources */,
-				02A2122F22BADE270021A32F /* DataStorage.swift in Sources */,
-				02A2122922BADE270021A32F /* Lights.swift in Sources */,
-				02A2122B22BADE270021A32F /* DroneProtocol.swift in Sources */,
-				02A2122D22BADE270021A32F /* FlyingState.swift in Sources */,
-				02A2123122BADE270021A32F /* Drone.swift in Sources */,
-				02A2121D22BADE270021A32F /* Assessor.swift in Sources */,
-				02A2121F22BADE270021A32F /* DroneViewControllerBase.swift in Sources */,
-				02A2123922BADE270021A32F /* FlipDirection.swift in Sources */,
-				02A2122522BADE270021A32F /* Canon.swift in Sources */,
-				02A2122322BADE270021A32F /* Api.swift in Sources */,
-				02A2123F22BADE270021A32F /* TurnDirection.swift in Sources */,
-				02A2123722BADE270021A32F /* MoveParams.swift in Sources */,
-				02A2123D22BADE270021A32F /* MainViewController.swift in Sources */,
-				02A2123522BADE270021A32F /* MotionTracker.swift in Sources */,
-				5EA2E3C02056F35A00416A35 /* AppDelegate.swift in Sources */,
+				02A2129622BAE4D10021A32F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -573,14 +531,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5EA2E3C82056F35B00416A35 /* LiveViewTestAppLaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5EA2E3C92056F35B00416A35 /* Base */,
-			);
-			name = LiveViewTestAppLaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
 		5EF2F97E2054B6E400191409 /* ManifestPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (

@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>ChapterOneName</string>
-	<key>Pages</key>
+	<string>Name</string>
+	<key>TemplatePageFilename</key>
+	<string>01.playgroundpage</string>
+	<key>InitialUserPages</key>
 	<array>
-		<string>PlaygroundPage.playgroundpage</string>
+		<string>01.playgroundpage</string>
 	</array>
 </dict>
 </plist>

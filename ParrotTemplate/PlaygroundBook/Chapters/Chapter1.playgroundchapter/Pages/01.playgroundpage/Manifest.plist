@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>ChapterOnePageOneName</string>
-	<key>LiveViewEdgeToEdge</key>
-	<true/>
+	<string>Name</string>
 	<key>LiveViewMode</key>
 	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
 </dict>
 </plist>
